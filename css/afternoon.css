@@ -1,0 +1,190 @@
+body {
+	margin: 0px
+}
+section{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.background-img {
+	background-image: url(../img/mountain.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+a{
+
+    color: #212529;
+}
+
+.headline {
+	color: white;
+	font-size:80px;
+	font-family: 'Berkshire Swash', cursive;
+	text-shadow: 5px 5px #FF8B32;
+}
+
+.text-padding {
+	padding:50px;
+	font-size:35px;
+}
+
+.text-padding-red {
+	padding:30px;
+	font-size:30px;
+}
+
+.scroll {
+	color: white;
+	font-size:35px;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 2px 2px #636664;
+}
+
+.quote {
+	position: relative;
+}
+
+.quote-name {
+	position: absolute;
+	top: 60%;
+	left: 45%;
+	overflow: hidden;
+}
+
+.intro{
+	background-color: white;
+}
+
+.cont1{
+	background-color: white;
+}
+
+.words{
+	font-size: 50-px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.icon {
+	font-size: 100px;
+	color: blue;
+}
+
+.header-text {
+	padding-top: 40vh;
+	text-align: center;
+}
+.div-a {
+	font-size: 40px;
+	color: black;
+	text-align: center;
+}
+
+.photo {
+	background-color:#E1E2E5;
+}
+
+.photo-sport {
+	background-color:#E1E2E5;
+}
+
+
+.br-a {
+	font-size: 10px;
+}
+
+.red {
+	background-color: white;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.blue {
+	background-color: lightblue;
+	font-family: 'Berkshire Swash', cursive;
+
+}
+
+.icon2 {
+	font-size: 100px;
+}
+
+.centralise {
+	text-align: center;
+}
+
+.mountain-img {
+	width: 100%;
+	max-height: 450px;
+}
+
+.video {
+	background-color: white;
+}
+
+.text-photo {
+	font-size: 40px;
+	font-family: 'Berkshire Swash', cursive;
+	text-align: center;
+	padding-top: 50%;
+}
+
+
+.nav-link {
+	color:white !important;
+
+}
+
+.navbar-brand {
+	color:white !important;
+}
+
+.sport {
+	max-width: 730px;
+	height: 450px;
+}
+
+.contact {
+	background-color:#E1E2E5;
+}
+
+.icon-con {
+	height:100%;
+}
+
+.tele {
+	font-size: 25px;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.icon-text {
+	font-size: 35px;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.contact {
+	text-align: center;
+}
+
+.social {
+	font-size: 55px;
+}
+
+.email {
+	font-size: 20px;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.tele-icon {
+	font-size: 48px;
+}
+
+.input {
+	max-width:80%; 
+}
+
+
+
+
+

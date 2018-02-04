@@ -1,0 +1,42 @@
+body {
+	background-color: lightblue;
+	color: white;
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Bree Serif', serif;
+
+}
+
+.aaa {
+	height: 200px;
+	width:200px;
+	
+	-webkit-box-shadow: 10px 10px 137px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 137px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 137px 0px rgba(0,0,0,0.75);
+
+}
+
+.first-p {
+	color: red;
+
+}
+
+.second-p {
+	color: green
+}
+
+
+.first-div {
+	background-color: yellow;
+	font-family: 'Pacifico', cursive;
+}
+
+.second-div {
+	background-color: green;
+	font-family: 'Pacifico', cursive;
+}
+
+.img-div {
+	border-color: silver;
+}
